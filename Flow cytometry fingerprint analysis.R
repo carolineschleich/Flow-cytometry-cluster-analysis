@@ -1,3 +1,5 @@
+# Author: Niklas Gador, Kristianstad University Sweden
+
 library(flowCore)
 library(lattice)
 library(flowViz)
